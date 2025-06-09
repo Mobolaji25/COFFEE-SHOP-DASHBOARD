@@ -37,10 +37,10 @@ o	Coffee Beverages: 1341
 7.	Revenue by City %: Donut chart depicting the percentage of revenue generated from different cities (Austin, Chicago, Los Angeles, New York, Seattle).
 8.	Monthly Profit & Revenue: Bar chart comparing monthly profit and revenue side-by-side.
 
-##Data Source
+## Data Source
 The dashboard is built upon a dataset containing sales and profit information for a coffee shop. 
 
-Tools & Technologies
+## Tools & Technologies
 This dashboard was developed using Ms. Excel
 
 ## Key Insights
