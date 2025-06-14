@@ -1,8 +1,8 @@
 # COFFEE-SHOP-DASHBOARD
-A data visualization dashboard showcasing key metrics for a coffee shop, including total transactions, quantity sold, revenue, profit, and breakdowns by category, weekday, year, city, and monthly trends. Created using Ms. Excel
-
-# Coffee Shop Sales & Profit Dashboard
 This repository contains a comprehensive interactive dashboard designed to provide deep insights into the sales and profit performance of a hypothetical coffee shop. Leveraging key business metrics and various breakdowns, this dashboard empowers stakeholders to make data-driven decisions and identify areas for growth and improvement.
+
+## Dataset Used
+-<a href="https://github.com/Mobolaji25/COFFEE-SHOP-DASHBOARD/blob/main/COFFEE%20SHOP%20DATA.xlsx">Dataset</a>
 
 ## Overview
 The Coffee Shop Sales & Profit Dashboard is a business intelligence tool that consolidates critical sales and financial data into an easily digestible visual format. It provides a holistic view of the coffee shop's performance, from overall transactions and revenue to granular details like category-wise sales and monthly profit trends.
@@ -13,7 +13,7 @@ Features
 •	Yearly Trends: Visualization of revenue distribution across different years (2021-2023).
 •	Geographic Analysis: Revenue insights segmented by city.
 •	Monthly Performance Tracking: Monitor monthly transaction volume, revenue, and profit.
-•	Interactive Filters: (Assumed, based on typical dashboard functionality) Ability to filter data by year, month, and city for specific analysis.
+•	Dashboard Interactive: <a href="https://github.com/Mobolaji25/COFFEE-SHOP-DASHBOARD/blob/main/DASHBOARD%203.jpg">View Dashboard</a>
 
 ## Dashboard Components
 The dashboard is structured with several key visualization panels:
@@ -37,8 +37,8 @@ o	Coffee Beverages: 1341
 7.	Revenue by City %: Donut chart depicting the percentage of revenue generated from different cities (Austin, Chicago, Los Angeles, New York, Seattle).
 8.	Monthly Profit & Revenue: Bar chart comparing monthly profit and revenue side-by-side.
 
-## Data Source
-The dashboard is built upon a dataset containing sales and profit information for a coffee shop. 
+## Dashboard
+![COFFEE DASHBOARD](https://github.com/user-attachments/assets/5f47670c-bdd1-433d-afde-f05c9d75c7b0)
 
 ## Tools & Technologies
 This dashboard was developed using Ms. Excel
